@@ -1,0 +1,11 @@
+torch==1.13.1
+sentencepiece==0.1.99
+transformers==4.25.1
+datasets==2.8.0
+huggingface_hub==0.20.1
+numpy==1.24.4
+pyaudio
+websockets
+regtag
+validators
+jiwer
